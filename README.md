@@ -27,10 +27,6 @@ python main.py
 
 下载 `精灵计数器.exe`，双击运行（无需安装 Python）。
 
-## 截图
-
-![设计例子](设计例子.png)
-
 ## 目录结构
 
 ```
@@ -52,16 +48,6 @@ python main.py
 ├── LUOKE DATE/             # 精灵立绘
 └── resources/              # 默认配置
 ```
-
-## 技术栈
-
-| 层面 | 技术 |
-|------|------|
-| 语言 | Python 3 |
-| GUI | PySide6（Qt for Python） |
-| 数据 | JSON + dataclass |
-| 打包 | PyInstaller |
-
 ## 开发
 
 精灵预设图片存放于 `LUOKE DATE/`，格式为：
@@ -71,7 +57,3 @@ python main.py
 ```
 
 配置位于 `resources/default_config.json`。
-
-## License
-
-MIT
