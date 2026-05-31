@@ -16,7 +16,7 @@
 
 ## 截图
 
-![示例](ex.png)
+![界面](ex.png)
 
 ## 运行
 
@@ -27,9 +27,9 @@ pip install PySide6>=6.6.0
 python main.py
 ```
 
-### 方式二：打包的 exe
+### 方式二：发行包
 
-下载 `精灵计数器.exe`，双击运行（无需安装 Python）。
+下载 `精灵计数器.zip`，解压后双击 `精灵计数器.exe`（无需安装 Python）。
 
 ## 目录结构
 
@@ -61,3 +61,7 @@ python main.py
 ```
 
 配置位于 `resources/default_config.json`。
+
+## License
+
+MIT
