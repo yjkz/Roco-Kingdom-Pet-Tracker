@@ -1,16 +1,20 @@
 import json
 import os
+import sys
 from models.pokemon_data import AppConfig
 
-# 数据保存在插件本地目录下
-_PLUGIN_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(_PLUGIN_DIR, "data")
-DATA_FILE = os.path.join(DATA_DIR, "data.json")
-CACHE_DIR = os.path.join(DATA_DIR, "thumbnails")
+# data saved next to exe (frozen) or in plugin dir (Python)
+if getattr(sys, 'frozen', False):
+    _DATA_DIR = os.path.join(os.path.dirname(sys.executable), "data")
+else:
+    _DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
+
+DATA_FILE = os.path.join(_DATA_DIR, "data.json")
+CACHE_DIR = os.path.join(_DATA_DIR, "thumbnails")
 
 
 def ensure_dirs():
-    os.makedirs(DATA_DIR, exist_ok=True)
+    os.makedirs(_DATA_DIR, exist_ok=True)
     os.makedirs(CACHE_DIR, exist_ok=True)
 
 

@@ -18,9 +18,7 @@ from models.pokemon_data import PokemonEntry
 from views.pokemon_card import PokemonCard
 from views.components import StrokedLabel
 
-# Icon paths resolved at import time relative to plugin directory
-_PLUGIN_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-_UI_DIR = os.path.join(_PLUGIN_DIR, "assets", "ui")
+_UI_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "assets", "ui")
 _SETTINGS_ICON_PATHS = [
     os.path.join(_UI_DIR, "btn_icon_settings.png"),
     "E:/ClaudeGame/570+Icons-CN-v1.0.3/1.用户界面/设置_64px.png",

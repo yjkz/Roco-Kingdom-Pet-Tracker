@@ -10,9 +10,12 @@ from views.overlay_window import OverlayWindow
 def main():
     app = QApplication(sys.argv)
 
+    # In frozen mode, chdir to _internal so CSS and __file__ paths resolve
+    if getattr(sys, 'frozen', False):
+        os.chdir(os.path.join(os.path.dirname(sys.executable), '_internal'))
+
     # Load custom font
-    font_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                             "fonts", "猫啃网糖圆体.ttf")
+    font_path = "fonts/猫啃网糖圆体.ttf"
     if os.path.exists(font_path):
         font_id = QFontDatabase.addApplicationFont(font_path)
         if font_id >= 0:
