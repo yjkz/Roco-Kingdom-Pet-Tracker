@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "pokemon": [
+    {
+      "id": "default-01",
+      "name": "尖嘴狐仙",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 尖嘴狐仙 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 0
+    },
+    {
+      "id": "default-02",
+      "name": "疾光千兽",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 疾光千兽 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 1
+    },
+    {
+      "id": "default-03",
+      "name": "利灯鱼",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 利灯鱼 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 2
+    },
+    {
+      "id": "default-04",
+      "name": "加油蟹",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 加油蟹 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 3
+    },
+    {
+      "id": "default-05",
+      "name": "叮叮恶魔",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 叮叮恶魔 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 4
+    },
+    {
+      "id": "default-06",
+      "name": "獠牙猪",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 獠牙猪 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 5
+    },
+    {
+      "id": "default-07",
+      "name": "咕德帽帽",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 咕德帽帽 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 6
+    },
+    {
+      "id": "default-08",
+      "name": "窃光蚊",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 窃光蚊 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 7
+    },
+    {
+      "id": "default-09",
+      "name": "嘟嘟锅",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 嘟嘟锅 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 8
+    },
+    {
+      "id": "default-10",
+      "name": "立方人",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 立方人 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 9
+    },
+    {
+      "id": "default-11",
+      "name": "夜枭",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 夜枭 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 10
+    },
+    {
+      "id": "default-12",
+      "name": "雪影娃娃",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 雪影娃娃 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 11
+    },
+    {
+      "id": "default-13",
+      "name": "奇丽花",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 奇丽花 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 12
+    },
+    {
+      "id": "default-14",
+      "name": "小丑公爵",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 小丑公爵 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 13
+    },
+    {
+      "id": "default-15",
+      "name": "朔夜伊芙",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 朔夜伊芙 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 14
+    },
+    {
+      "id": "default-16",
+      "name": "白金独角兽",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 白金独角兽 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 15
+    },
+    {
+      "id": "default-17",
+      "name": "绒仙子",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 绒仙子 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 16
+    },
+    {
+      "id": "default-18",
+      "name": "雪怪",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 雪怪 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 17
+    },
+    {
+      "id": "default-19",
+      "name": "巨鼓象",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 巨鼓象 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 18
+    },
+    {
+      "id": "default-20",
+      "name": "酷拉",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 酷拉 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 19
+    },
+    {
+      "id": "default-21",
+      "name": "燃薪虫",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 燃薪虫 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 20
+    },
+    {
+      "id": "default-22",
+      "name": "格兰球",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 格兰球 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 21
+    },
+    {
+      "id": "default-23",
+      "name": "红绒十字",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 红绒十字 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 22
+    },
+    {
+      "id": "default-24",
+      "name": "雅丹鬃",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 雅丹鬃 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 23
+    },
+    {
+      "id": "default-25",
+      "name": "霹雳迪迪",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 霹雳迪迪 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 24
+    },
+    {
+      "id": "default-26",
+      "name": "烟花伯爵",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 烟花伯爵 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 25
+    },
+    {
+      "id": "default-27",
+      "name": "爆焰喷喷",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 爆焰喷喷 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 26
+    },
+    {
+      "id": "default-28",
+      "name": "帅帅魔偶",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 帅帅魔偶 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 27
+    },
+    {
+      "id": "default-29",
+      "name": "落陨星兔",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 落陨星兔 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 28
+    },
+    {
+      "id": "default-30",
+      "name": "贝古斯",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 贝古斯 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 29
+    },
+    {
+      "id": "default-31",
+      "name": "公平鸽",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 公平鸽 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 30
+    },
+    {
+      "id": "default-32",
+      "name": "恶魔狼",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 恶魔狼 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 31
+    },
+    {
+      "id": "default-33",
+      "name": "月牙雪熊",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 月牙雪熊 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 32
+    },
+    {
+      "id": "default-34",
+      "name": "幽影树",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 幽影树 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 33
+    },
+    {
+      "id": "default-35",
+      "name": "菊花梨",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 菊花梨 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 34
+    },
+    {
+      "id": "default-36",
+      "name": "犀角鸟",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 犀角鸟 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 35
+    },
+    {
+      "id": "default-37",
+      "name": "猴麦仔",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 猴麦仔 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 36
+    },
+    {
+      "id": "default-38",
+      "name": "小皮球",
+      "count": 0,
+      "image_path": "LUOKE DATE/页面 宠物 立绘 小皮球 异色.png",
+      "thumbnail_path": "",
+      "enabled": false,
+      "sort_order": 37
+    }
+  ],
+  "window_x": 100,
+  "window_y": 100,
+  "window_opacity": 0.9,
+  "card_height": 64,
+  "thumbnail_size": 48,
+  "window_width": 400
+}

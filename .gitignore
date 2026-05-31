@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.spec
+
+# Runtime data
+data/data.json
+data/thumbnails/
+
+# Python
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Junk
+=*
